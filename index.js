@@ -30,6 +30,6 @@ function sayHiToGrandma(string)
   }
   if (string==="I love you, Grandma.")
   {
-    return console.log("I love you, too")
+    return console.log("I love you, too.")
   }
 }
