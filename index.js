@@ -22,14 +22,14 @@ function sayHiToGrandma(string)
 {
   if (string.toLowerCase()===string)
   {
-    return console.log("I can\'t hear you!")
+    return "I can\'t hear you!"
   } 
   if (string.toUpperCase()===string)
   {
-    return console.log("YES INDEED!")
+    return "YES INDEED!"
   }
   if (string==="I love you, Grandma.")
   {
-    return console.log("I love you, too.")
+    return "I love you, too."
   }
 }
